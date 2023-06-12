@@ -13,12 +13,12 @@ function App() {
     <div className='App'>
       
       <div>
-        <img
+        {/* <img
           src='https://logos-world.net/wp-content/uploads/2022/05/Google-Translate-Symbol.png'
           className='logo'
           alt='earth logo'
           class='img'
-        />
+        /> */}
         <select class="form-select" aria-label="Default select example"  id="x" for="translator_input">
             <option selected>Choose a language</option>
             <option value="">Any language</option>
