@@ -17,6 +17,10 @@
 
 .earth{
   height: 100vh;
+  z-index: -1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 body {

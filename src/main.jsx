@@ -8,7 +8,7 @@ import planetTexture from "./img/map_h.jpg";
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
+    <Earth class="" planetTexture={planetTexture}/>
     
-    <Earth planetTexture={planetTexture}/>
   </React.StrictMode>,
 )
